@@ -2,7 +2,7 @@
 
 ELF: Hi Santa.
 
-SANTA: Hello Cake.
+SANTA: Hello [Dessert].
 
 ELF: You’re looking at me like I’m on your naughty list.
 
