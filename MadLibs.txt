@@ -2,15 +2,15 @@
 
 ELF: Hi Santa.
 
-SANTA: Hello [Dessert].
+SANTA: Hello Cake.
 
 ELF: You’re looking at me like I’m on your naughty list.
 
 SANTA: I was counting my toys and was one [Silly Word] short. I believe you stole it.
 
-ELF: But [Another Word for Father]!
+ELF: But Dad!
 
-SANTA: I started making that toy in [Year]. What will little [Celebrity Name] think when he/she wakes up on Christmas morning with nothing under the [Type of Plant]?
+SANTA: I started making that toy in 1886. What will little Taylor Swift think when he/she wakes up on Christmas morning with nothing under the [Type of Plant]?
 
 ELF: I would never steal such a [Adjective] toy.
 
